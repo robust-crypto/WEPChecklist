@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Active_psi-pen-5 icon-sm (1)</name>
+   <tag></tag>
+   <elementGuidId>1dba07af-8e7b-4d8e-9ec6-593b95b13432</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='dt-table']/tbody/tr/td/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.psi-pen-5.icon-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f0a909f9-c1ad-40cf-9eac-f46c4ab44f35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>psi-pen-5 icon-sm</value>
+      <webElementGuid>3a0e20d5-62ae-4fe1-9da9-f6894d1054e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dt-table&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;sorting_1&quot;]/a[@class=&quot;btn btn-mint btn-icon btn-sm&quot;]/i[@class=&quot;psi-pen-5 icon-sm&quot;]</value>
+      <webElementGuid>10e1b7d3-0ba6-4e27-adc1-b781f1a674fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='dt-table']/tbody/tr/td/a/i</value>
+      <webElementGuid>75ac68d8-dc2e-4567-bde4-5f261fda47c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a/i</value>
+      <webElementGuid>bf04a677-b4bd-4f8d-b9be-6c2b49e70951</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

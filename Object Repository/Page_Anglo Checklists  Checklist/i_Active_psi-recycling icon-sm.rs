@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Active_psi-recycling icon-sm</name>
+   <tag></tag>
+   <elementGuidId>84844076-9efc-4175-9d02-914109640724</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='dt-table']/tbody/tr/td/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.psi-recycling.icon-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>68e16fec-bfae-4cee-80e2-a52f11b59a4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>psi-recycling icon-sm</value>
+      <webElementGuid>4a282a95-0473-45bc-908c-ff83075443d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dt-table&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;sorting_1&quot;]/button[@class=&quot;btn btn-danger btn-icon btn-sm btnRemove&quot;]/i[@class=&quot;psi-recycling icon-sm&quot;]</value>
+      <webElementGuid>f59797c6-117a-4f35-bacd-dc340bd1c29f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='dt-table']/tbody/tr/td/button/i</value>
+      <webElementGuid>11e3cf67-e0fa-4dd7-88b4-5c6c567fbd59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>b9a82690-600c-4cf4-95df-f32fb3272a2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

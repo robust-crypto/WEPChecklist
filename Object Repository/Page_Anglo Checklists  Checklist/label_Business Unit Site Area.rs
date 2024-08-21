@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Business Unit Site Area</name>
+   <tag></tag>
+   <elementGuidId>221e8ea6-8631-4945-841c-059755fd5015</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='detailsForm']/div/div/div[6]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Business Unit Site Area&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>9d4b041b-4e66-421c-aea9-406fac070ef9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>SelectedBusinessUnitSiteAreaID</value>
+      <webElementGuid>8afb4eb6-9990-4831-ae3e-332ae3d1817f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-2 control-label</value>
+      <webElementGuid>96b02758-3619-4846-8166-6eb6eeb250ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Business Unit Site Area</value>
+      <webElementGuid>be74e745-c287-49d3-8aed-2e88d2f3c34a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;detailsForm&quot;)/div[@class=&quot;panel&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;form-group&quot;]/label[@class=&quot;col-md-2 control-label&quot;]</value>
+      <webElementGuid>7e530730-4a32-4544-8306-6982846c571b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='detailsForm']/div/div/div[6]/label</value>
+      <webElementGuid>efbea3e0-f865-41aa-a0a1-d39bcaaec0ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amandelbult'])[2]/following::label[1]</value>
+      <webElementGuid>e4c06c8c-4b07-4194-b6dc-b60ff41c15ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anglo Platinum'])[5]/following::label[1]</value>
+      <webElementGuid>380b5afc-d58c-4458-8849-0e54d21cbfd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[6]/preceding::label[1]</value>
+      <webElementGuid>995561ba-5a42-4dee-a54e-113db7642818</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[7]/preceding::label[1]</value>
+      <webElementGuid>9024a913-6d43-4f9a-a9d3-07a8411b6b68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Business Unit Site Area']/parent::*</value>
+      <webElementGuid>42e7946c-b0ba-4391-92cf-668affa45b38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/label</value>
+      <webElementGuid>ac5dc2a0-9665-4f4b-9973-2573d0313363</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Business Unit Site Area' or . = 'Business Unit Site Area')]</value>
+      <webElementGuid>4675ba47-5af9-4e0a-bd6a-175f7e97d216</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

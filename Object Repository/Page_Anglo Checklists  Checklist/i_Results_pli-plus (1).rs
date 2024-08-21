@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Results_pli-plus (1)</name>
+   <tag></tag>
+   <elementGuidId>777ee1a5-d9e5-4ce9-b60c-ea235341f1c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-content']/div[2]/div[2]/div/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.pli-plus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>65308c0a-dd55-4927-a041-7c7c73f50a32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pli-plus</value>
+      <webElementGuid>c8bd55d1-7792-4dd0-af9d-e5e2b0c48c2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/div[@class=&quot;panel&quot;]/div[@class=&quot;panel-body&quot;]/div[1]/div[@class=&quot;col-md-12 text-right&quot;]/a[@class=&quot;btn btn-primary btn-icon btn-circle&quot;]/i[@class=&quot;pli-plus&quot;]</value>
+      <webElementGuid>efd0d72b-b8da-43d2-8490-bdc858210dde</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-content']/div[2]/div[2]/div/div/a/i</value>
+      <webElementGuid>3667b013-9ad4-4dd9-b6e3-9c3f94af1b6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a/i</value>
+      <webElementGuid>aa15cebf-2767-430b-8843-3941be85aa27</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
